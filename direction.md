@@ -17,6 +17,7 @@
 *石油领域应用范围小，术语较难被其他专业的人所理解。*
 
 将**文字资料中的石油术语**提取出来，给出相应的详细解释。
+https://linguagreca.com/blog/2013/09/automatic-terminology-extraction/
 
 ## 自动摘要：
 只面向**石油领域**的文章
