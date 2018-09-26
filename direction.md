@@ -19,6 +19,8 @@
 将**文字资料中的石油术语**提取出来，给出相应的详细解释。  
 https://linguagreca.com/blog/2013/09/automatic-terminology-extraction/
 
+石油数据分析博客：https://www.spe.org/en/print-article/?art=3402
+
 ## 自动摘要：
 只面向**石油领域**的文章
 
